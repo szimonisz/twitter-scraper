@@ -1,2 +1,2 @@
 # twitter-scraper
-Scrape tweets by Twitter Mention
+Scrape tweets by 'Mention'
